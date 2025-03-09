@@ -1,0 +1,21 @@
+.background-logo,
+.background-line {
+  position: fixed;
+  z-index: -1;
+}
+
+.background-logo {
+  height: 32rem;
+  width: 32rem;
+  bottom: -40%;
+  left: 12%;
+  translate: -12% -40%;
+  /* rotate: -25deg; */
+}
+
+.background-line {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

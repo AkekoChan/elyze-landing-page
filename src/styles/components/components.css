@@ -1,0 +1,4 @@
+/* Toujours nommer son component avec un "_" au début, puis l'importer comme ci-dessous.  */
+@import "_header.css";
+@import "_hero.css";
+@import "_background.css";

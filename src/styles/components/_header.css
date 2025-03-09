@@ -56,3 +56,15 @@
     transform: translateX(0.5rem);
   }
 }
+
+@media (max-width: 80rem) {
+  .header {
+    padding-inline: 2rem;
+  }
+}
+
+@media (max-width: 40rem) {
+  .header-logo__text {
+    display: none;
+  }
+}
